@@ -98,7 +98,7 @@ Building data pipelines, analyzing data, and creating business insights 📊
 ---
 
 ### 🔗 Connect With Me
-- 💼 LinkedIn: LINKEDIN.COM/IN/MOHAMED-GAMAL-B45615239 
+- 💼 LinkedIn:https://www.linkedin.com/in/mohamed-gamal-b45615239/
 - 📧 Email: mg346662@gmail.com
 - 📊 Power BI Portfolio (optional)
 
